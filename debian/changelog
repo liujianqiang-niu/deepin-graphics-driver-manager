@@ -1,4 +1,4 @@
-deepin-graphics-driver-manager (5.1.21-1deepin1) unstable; urgency=medium
+deepin-graphics-driver-manager (5.1.22) unstable; urgency=medium
 
   * remove dh-systemd from build dep.
 
